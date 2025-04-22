@@ -18,7 +18,6 @@ A full-stack mobile **Event Management System** built with **React Native (Expo)
 
 ### 📱 Frontend (React Native)
 - Built with **React Native + Expo**
-- Styled with **NativeWind** 
 - Uses **Expo Router** for navigation
 - Mobile responsive, minimal UI
 
