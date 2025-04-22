@@ -22,7 +22,6 @@ A full-stack mobile **Event Management System** built with **React Native (Expo)
 - Built with **React Native + Expo**
 - Navigation handled by **Expo Router**
 - Responsive and minimal UI
-- Styled with **NativeWind** (Tailwind CSS for React Native)
 - Axios for API requests with cookies enabled
 
 ### ⚙️ Backend (NestJS)
