@@ -1,4 +1,4 @@
- 🎉 Event_App
+ ###🎉 Event_Management_System_App
 
 A full-stack mobile **Event Management System** built with **React Native (Expo)** for the frontend and **NestJS** for the backend. Organizers can securely create, update, view, and delete events. The backend uses **MongoDB** for data storage and **JWT with HttpOnly cookies** for secure authentication.
 
